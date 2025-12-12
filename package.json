@@ -11,7 +11,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Lova Dark Green",
+        "label": "Lova Monokai Green",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-green.json"
       }

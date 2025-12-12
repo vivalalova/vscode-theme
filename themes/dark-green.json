@@ -1,5 +1,5 @@
 {
-  "name": "Lova Dark Green",
+  "name": "Lova Monokai Green",
   "type": "dark",
   "colors": {
     "activityBar.activeBorder": "#4EC9B0",
@@ -18,7 +18,7 @@
     "sideBarSectionHeader.background": "#3d3d3d",
     "sideBarSectionHeader.foreground": "#cccccc",
     "sideBarTitle.foreground": "#4EC9B0",
-    "statusBar.background": "#005a9e",
+    "statusBar.background": "#1a5045",
     "statusBar.debuggingBackground": "#cc6633",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.foreground": "#ffffff",
