@@ -14,6 +14,11 @@
         "label": "Lova Monokai Green",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-green.json"
+      },
+      {
+        "label": "Lova Cursor Light",
+        "uiTheme": "vs",
+        "path": "./themes/cursor-light.json"
       }
     ]
   }
