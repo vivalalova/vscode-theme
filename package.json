@@ -19,6 +19,36 @@
         "label": "Lova Cursor Light",
         "uiTheme": "vs",
         "path": "./themes/cursor-light.json"
+      },
+      {
+        "label": "Lova Ocean Depths",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ocean-depths.json"
+      },
+      {
+        "label": "Lova Tech Innovation",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tech-innovation.json"
+      },
+      {
+        "label": "Lova Midnight Galaxy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-galaxy.json"
+      },
+      {
+        "label": "Lova Arctic Frost",
+        "uiTheme": "vs",
+        "path": "./themes/arctic-frost.json"
+      },
+      {
+        "label": "Lova Forest Canopy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-canopy.json"
+      },
+      {
+        "label": "Lova Sunset Boulevard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sunset-boulevard.json"
       }
     ]
   }
