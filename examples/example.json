@@ -1,0 +1,116 @@
+{
+  "name": "example-project",
+  "version": "1.0.0",
+  "description": "JSON Example for syntax highlighting",
+  "private": true,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": {
+    "name": "Example Author",
+    "email": "author@example.com",
+    "url": "https://example.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "example",
+    "json",
+    "syntax-highlighting"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/example/project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/example/project/issues"
+  },
+  "homepage": "https://example.com",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .ts,.tsx",
+    "test": "vitest",
+    "test:coverage": "vitest --coverage"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.0",
+    "typescript": "^5.3.0",
+    "vite": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "config": {
+    "port": 3000,
+    "host": "localhost",
+    "apiUrl": "https://api.example.com",
+    "features": {
+      "darkMode": true,
+      "analytics": false,
+      "experimental": {
+        "newUI": true,
+        "betaFeatures": false
+      }
+    },
+    "limits": {
+      "maxRetries": 3,
+      "timeout": 5000,
+      "rateLimit": 100
+    }
+  },
+  "data": {
+    "users": [
+      {
+        "id": 1,
+        "name": "Alice",
+        "email": "alice@example.com",
+        "active": true,
+        "roles": ["admin", "user"],
+        "metadata": null
+      },
+      {
+        "id": 2,
+        "name": "Bob",
+        "email": "bob@example.com",
+        "active": false,
+        "roles": ["user"],
+        "score": 85.5
+      }
+    ],
+    "settings": {
+      "theme": "dark",
+      "language": "en",
+      "notifications": true,
+      "privacy": {
+        "shareData": false,
+        "cookies": true
+      }
+    }
+  },
+  "emptyObject": {},
+  "emptyArray": [],
+  "numbers": {
+    "integer": 42,
+    "negative": -17,
+    "float": 3.14159,
+    "scientific": 1.5e10,
+    "zero": 0
+  },
+  "booleans": {
+    "enabled": true,
+    "disabled": false
+  },
+  "nullValue": null,
+  "specialStrings": {
+    "unicode": "Hello \u4e16\u754c",
+    "escaped": "Line1\nLine2\tTabbed",
+    "path": "/users/example/documents",
+    "url": "https://example.com/path?query=value&foo=bar"
+  }
+}

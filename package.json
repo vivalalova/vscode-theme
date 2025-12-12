@@ -1,0 +1,20 @@
+{
+  "name": "lova-themes",
+  "displayName": "Lova Themes",
+  "description": "Personal color themes",
+  "version": "1.0.0",
+  "publisher": "lova",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lova Dark Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-green.json"
+      }
+    ]
+  }
+}
