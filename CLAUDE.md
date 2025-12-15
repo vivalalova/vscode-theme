@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 專案概述
 
-VS Code 色彩主題擴展，包含 21 個主題（10 深色 + 11 淺色）。
+VS Code 色彩主題擴展，包含 23 個主題（11 深色 + 12 淺色）。
 
 ## 本地安裝
 
@@ -37,6 +37,8 @@ VS Code 色彩主題擴展，包含 21 個主題（10 深色 + 11 淺色）。
 | Lova shadcn Dark | 深色 | `themes/shadcn-dark.json` |
 | Lova Mermaid Light | 淺色 | `themes/mermaid-light.json` |
 | Lova Mermaid Dark | 深色 | `themes/mermaid-dark.json` |
+| Lova React Light | 淺色 | `themes/react-light.json` |
+| Lova React Dark | 深色 | `themes/react-dark.json` |
 
 ## 檔案結構
 
