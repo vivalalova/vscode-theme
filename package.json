@@ -114,6 +114,16 @@
         "label": "Lova Mermaid Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/mermaid-dark.json"
+      },
+      {
+        "label": "Lova React Light",
+        "uiTheme": "vs",
+        "path": "./themes/react-light.json"
+      },
+      {
+        "label": "Lova React Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/react-dark.json"
       }
     ]
   }
