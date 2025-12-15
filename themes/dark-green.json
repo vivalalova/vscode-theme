@@ -118,7 +118,7 @@
       "name": "Variable",
       "scope": ["variable", "variable.other"],
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -133,7 +133,7 @@
       "name": "Property",
       "scope": ["variable.other.property", "variable.other.object.property"],
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -161,7 +161,7 @@
       "name": "Punctuation",
       "scope": ["punctuation"],
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -182,9 +182,9 @@
     },
     {
       "name": "Markup Bold",
-      "scope": ["markup.bold"],
+      "scope": ["markup.bold", "punctuation.definition.bold.markdown"],
       "settings": {
-        "foreground": "#F92672",
+        "foreground": "#66D9EF",
         "fontStyle": "bold"
       }
     },
@@ -204,6 +204,13 @@
       }
     },
     {
+      "name": "Markup Inline Code",
+      "scope": ["markup.inline.raw.string.markdown", "markup.raw.inline"],
+      "settings": {
+        "foreground": "#FD971F"
+      }
+    },
+    {
       "name": "JSON Key",
       "scope": [
         "support.type.property-name.json",
@@ -218,7 +225,14 @@
       "name": "HTML Text",
       "scope": ["text.html"],
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "name": "Swift Source",
+      "scope": ["source.swift"],
+      "settings": {
+        "foreground": "#FFFFFF"
       }
     }
   ]
