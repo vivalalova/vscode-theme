@@ -94,6 +94,16 @@
         "label": "Lova Sony Light",
         "uiTheme": "vs",
         "path": "./themes/sony-light.json"
+      },
+      {
+        "label": "Lova shadcn Light",
+        "uiTheme": "vs",
+        "path": "./themes/shadcn-light.json"
+      },
+      {
+        "label": "Lova shadcn Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shadcn-dark.json"
       }
     ]
   }
