@@ -11,9 +11,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Lova Monokai Green",
+        "label": "Lova Monokai Green Light",
+        "uiTheme": "vs",
+        "path": "./themes/monokai-green-light.json"
+      },
+      {
+        "label": "Lova Monokai Green Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-green.json"
+        "path": "./themes/monokai-green-dark.json"
       },
       {
         "label": "Lova Cursor Light",

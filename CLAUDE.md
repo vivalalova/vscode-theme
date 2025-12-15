@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 專案概述
 
-VS Code 色彩主題擴展，包含 25 個主題（12 深色 + 13 淺色）。
+VS Code 色彩主題擴展，包含 26 個主題（12 深色 + 14 淺色）。
 
 ## 本地安裝
 
@@ -16,7 +16,8 @@ VS Code 色彩主題擴展，包含 25 個主題（12 深色 + 13 淺色）。
 
 | 主題 | 類型 | 檔案 |
 |------|------|------|
-| Lova Monokai Green | 深色 | `themes/dark-green.json` |
+| Lova Monokai Green Light | 淺色 | `themes/monokai-green-light.json` |
+| Lova Monokai Green Dark | 深色 | `themes/monokai-green-dark.json` |
 | Lova Cursor Light | 淺色 | `themes/cursor-light.json` |
 | Lova Ocean Depths | 深色 | `themes/ocean-depths.json` |
 | Lova Tech Innovation | 深色 | `themes/tech-innovation.json` |
