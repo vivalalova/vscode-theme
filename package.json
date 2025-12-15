@@ -49,6 +49,51 @@
         "label": "Lova Sunset Boulevard",
         "uiTheme": "vs-dark",
         "path": "./themes/sunset-boulevard.json"
+      },
+      {
+        "label": "Lova Claude",
+        "uiTheme": "vs",
+        "path": "./themes/claude.json"
+      },
+      {
+        "label": "Lova Claude Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/claude-dark.json"
+      },
+      {
+        "label": "Lova Teams",
+        "uiTheme": "vs",
+        "path": "./themes/teams.json"
+      },
+      {
+        "label": "Lova Teams Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/teams-dark.json"
+      },
+      {
+        "label": "Lova macOS Light",
+        "uiTheme": "vs",
+        "path": "./themes/macos-light.json"
+      },
+      {
+        "label": "Lova iOS Light",
+        "uiTheme": "vs",
+        "path": "./themes/ios-light.json"
+      },
+      {
+        "label": "Lova Android Light",
+        "uiTheme": "vs",
+        "path": "./themes/android-light.json"
+      },
+      {
+        "label": "Lova Nintendo Light",
+        "uiTheme": "vs",
+        "path": "./themes/nintendo-light.json"
+      },
+      {
+        "label": "Lova Sony Light",
+        "uiTheme": "vs",
+        "path": "./themes/sony-light.json"
       }
     ]
   }
