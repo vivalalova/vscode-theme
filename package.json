@@ -124,6 +124,16 @@
         "label": "Lova React Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/react-dark.json"
+      },
+      {
+        "label": "Lova Fork Light",
+        "uiTheme": "vs",
+        "path": "./themes/fork-light.json"
+      },
+      {
+        "label": "Lova Fork Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fork-dark.json"
       }
     ]
   }
