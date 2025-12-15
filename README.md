@@ -1,6 +1,6 @@
 # Lova Themes
 
-個人 VS Code 色彩主題擴展，包含 19 個主題（9 深色 + 10 淺色）。
+個人 VS Code 色彩主題擴展，包含 25 個主題（12 深色 + 13 淺色）。
 
 ## 主題列表
 
@@ -17,6 +17,9 @@
 | Lova Claude Dark | Claude AI 深色版 |
 | Lova Teams Dark | Microsoft Teams 深色版 |
 | Lova shadcn Dark | shadcn/ui 深色版 |
+| Lova Mermaid Dark | Mermaid 圖表深色版 |
+| Lova React Dark | React 深色版 |
+| Lova Fork Dark | Fork Git 客戶端深色版 |
 
 ### 淺色主題
 
@@ -32,6 +35,9 @@
 | Lova Nintendo Light | Nintendo 紅白配色 |
 | Lova Sony Light | PlayStation 藍調 |
 | Lova shadcn Light | shadcn/ui 淺色版 |
+| Lova Mermaid Light | Mermaid 圖表淺色版 |
+| Lova React Light | React 淺色版 |
+| Lova Fork Light | Fork Git 客戶端淺色版 |
 
 ## 安裝
 
