@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 專案概述
 
-VS Code 色彩主題擴展，包含 17 個主題（8 深色 + 9 淺色）。
+VS Code 色彩主題擴展，包含 19 個主題（9 深色 + 10 淺色）。
 
 ## 本地安裝
 
@@ -33,6 +33,8 @@ VS Code 色彩主題擴展，包含 17 個主題（8 深色 + 9 淺色）。
 | Lova Android Light | 淺色 | `themes/android-light.json` |
 | Lova Nintendo Light | 淺色 | `themes/nintendo-light.json` |
 | Lova Sony Light | 淺色 | `themes/sony-light.json` |
+| Lova shadcn Light | 淺色 | `themes/shadcn-light.json` |
+| Lova shadcn Dark | 深色 | `themes/shadcn-dark.json` |
 
 ## 檔案結構
 
