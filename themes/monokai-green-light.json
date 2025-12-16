@@ -34,8 +34,6 @@
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.foreground": "#ffffff",
     "tab.activeBackground": "#f8f8f8",
-    "tab.activeBorder": "#1a9e84",
-    "tab.activeBorderTop": "#1a9e84",
     "tab.activeForeground": "#333333",
     "tab.border": "#d0d0d0",
     "tab.inactiveBackground": "#e8e8e8",
