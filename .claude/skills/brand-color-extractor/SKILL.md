@@ -110,6 +110,13 @@ description: 🎨 品牌配色提取專家 - 當需要為 VS Code 主題提取�
 | `editorInfo.foreground` | 資訊波浪線 |
 | `editorHint.foreground` | 提示波浪線 |
 
+#### 未使用程式碼
+
+| 屬性 | 說明 | 建議值 |
+|------|------|--------|
+| `editorUnnecessaryCode.opacity` | 未使用程式碼透明度 | `#00000077` |
+| `editorUnnecessaryCode.border` | 未使用程式碼邊框 | `#00000000` |
+
 #### 活動欄 (Activity Bar)
 
 | 屬性 | 說明 |
@@ -710,12 +717,20 @@ description: 🎨 品牌配色提取專家 - 當需要為 VS Code 主題提取�
 
 ### 3. 語義高亮 (`semanticTokenColors`)
 
-基於語言伺服器的進階著色（可選）：
+**必須啟用** `"semanticHighlighting": true`，確保變數顏色正確顯示。
+
+**變數顏色規則（重要）**：
+
+- 深色主題：變數使用 `#FFFFFF`（白色）
+- 淺色主題：變數使用 `#1a1a1a`（近黑色）
+
+必須設定的 token：
 
 | Token | 說明 |
 |-------|------|
 | `variable` | 變數 |
 | `variable.readonly` | 唯讀變數 |
+| `variable.local` | 區域變數 |
 | `variable.declaration` | 變數宣告 |
 | `parameter` | 參數 |
 | `function` | 函數 |
@@ -772,9 +787,10 @@ description: 🎨 品牌配色提取專家 - 當需要為 VS Code 主題提取�
 
 提供完整的 VS Code 主題 JSON，包含：
 
-1. `colors` 物件（UI 色彩）- 必須包含上述所有類別
-1. `tokenColors` 陣列（語法高亮）- 必須包含上述所有 scope
-1. `semanticTokenColors` 物件（語義高亮）- 可選
+1. `"semanticHighlighting": true`（必須）
+2. `colors` 物件（UI 色彩）- 必須包含上述所有類別
+3. `tokenColors` 陣列（語法高亮）- 必須包含上述所有 scope
+4. `semanticTokenColors` 物件（語義高亮）- 必須，確保變數顏色正確
 
 ## 品牌官網參考
 
@@ -808,6 +824,9 @@ description: 🎨 品牌配色提取專家 - 當需要為 VS Code 主題提取�
 - [ ] 選取/高亮狀態清晰
 - [ ] 所有 UI 色彩類別都已設定
 - [ ] 所有語法高亮 scope 都已設定
+- [ ] `semanticHighlighting: true` 已啟用
+- [ ] `semanticTokenColors` 變數顏色已設定（深色 #FFFFFF / 淺色 #1a1a1a）
+- [ ] `editorUnnecessaryCode` 未使用程式碼樣式已設定
 - [ ] 終端機 ANSI 色彩完整
 - [ ] Git 裝飾色彩清晰區分
 - [ ] 括號配對色彩明顯
