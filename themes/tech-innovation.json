@@ -1,6 +1,15 @@
 {
   "name": "Lova Tech Innovation",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable": "#FFFFFF",
+    "variable.readonly": "#FFFFFF",
+    "variable.local": "#FFFFFF",
+    "variable.declaration": "#FFFFFF",
+    "property": "#FFFFFF",
+    "parameter": "#ffcc00"
+  },
   "colors": {
     "activityBar.activeBorder": "#00ffff",
     "activityBar.background": "#1e1e1e",

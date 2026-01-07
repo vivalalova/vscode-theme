@@ -1,6 +1,15 @@
 {
   "name": "Lova shadcn Dark",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable": "#FFFFFF",
+    "variable.readonly": "#FFFFFF",
+    "variable.local": "#FFFFFF",
+    "variable.declaration": "#FFFFFF",
+    "property": "#FFFFFF",
+    "parameter": "#A1A1AA"
+  },
   "colors": {
     "activityBar.activeBorder": "#FAFAFA",
     "activityBar.background": "#09090B",

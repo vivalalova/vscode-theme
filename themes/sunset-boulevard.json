@@ -1,6 +1,15 @@
 {
   "name": "Lova Sunset Boulevard",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable": "#FFFFFF",
+    "variable.readonly": "#FFFFFF",
+    "variable.local": "#FFFFFF",
+    "variable.declaration": "#FFFFFF",
+    "property": "#FFFFFF",
+    "parameter": "#f4a261"
+  },
   "colors": {
     "activityBar.activeBorder": "#f4a261",
     "activityBar.background": "#264653",

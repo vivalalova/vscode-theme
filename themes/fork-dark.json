@@ -1,6 +1,15 @@
 {
   "name": "Lova Fork Dark",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable": "#FFFFFF",
+    "variable.readonly": "#FFFFFF",
+    "variable.local": "#FFFFFF",
+    "variable.declaration": "#FFFFFF",
+    "property": "#FFFFFF",
+    "parameter": "#B0B0B0"
+  },
   "colors": {
     "activityBar.activeBorder": "#4A9FE8",
     "activityBar.background": "#1E1E1E",

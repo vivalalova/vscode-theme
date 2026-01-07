@@ -1,6 +1,15 @@
 {
   "name": "Lova Claude Dark",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable": "#FFFFFF",
+    "variable.readonly": "#FFFFFF",
+    "variable.local": "#FFFFFF",
+    "variable.declaration": "#FFFFFF",
+    "property": "#FFFFFF",
+    "parameter": "#FCD34D"
+  },
   "colors": {
     "activityBar.activeBorder": "#D97757",
     "activityBar.background": "#1A1918",

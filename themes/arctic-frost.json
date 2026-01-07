@@ -1,6 +1,15 @@
 {
   "name": "Lova Arctic Frost",
   "type": "light",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable": "#1a1a1a",
+    "variable.readonly": "#1a1a1a",
+    "variable.local": "#1a1a1a",
+    "variable.declaration": "#1a1a1a",
+    "property": "#1a1a1a",
+    "parameter": "#a08040"
+  },
   "colors": {
     "activityBar.activeBorder": "#4a6fa5",
     "activityBar.background": "#fafafa",

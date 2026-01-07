@@ -1,6 +1,15 @@
 {
   "name": "Lova Ocean Depths",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable": "#FFFFFF",
+    "variable.readonly": "#FFFFFF",
+    "variable.local": "#FFFFFF",
+    "variable.declaration": "#FFFFFF",
+    "property": "#FFFFFF",
+    "parameter": "#f1faee"
+  },
   "colors": {
     "activityBar.activeBorder": "#2d8b8b",
     "activityBar.background": "#1a2332",

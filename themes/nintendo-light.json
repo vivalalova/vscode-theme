@@ -1,6 +1,15 @@
 {
   "name": "Lova Nintendo Light",
   "type": "light",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable": "#1a1a1a",
+    "variable.readonly": "#1a1a1a",
+    "variable.local": "#1a1a1a",
+    "variable.declaration": "#1a1a1a",
+    "property": "#1a1a1a",
+    "parameter": "#0D0C0C"
+  },
   "colors": {
     "activityBar.activeBorder": "#E60012",
     "activityBar.background": "#F8F8F8",

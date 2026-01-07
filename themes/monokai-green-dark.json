@@ -1,6 +1,15 @@
 {
   "name": "Lova Monokai Green Dark",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable": "#FFFFFF",
+    "variable.readonly": "#FFFFFF",
+    "variable.local": "#FFFFFF",
+    "variable.declaration": "#FFFFFF",
+    "property": "#FFFFFF",
+    "parameter": "#FD971F"
+  },
   "colors": {
     "activityBar.activeBorder": "#4EC9B0",
     "activityBar.background": "#383838",
@@ -40,7 +49,9 @@
     "quickInputList.focusIconForeground": "#4EC9B0",
     "quickInputTitle.background": "#2f2f2f",
     "pickerGroup.border": "#454545",
-    "pickerGroup.foreground": "#4EC9B0"
+    "pickerGroup.foreground": "#4EC9B0",
+    "editorUnnecessaryCode.opacity": "#00000077",
+    "editorUnnecessaryCode.border": "#00000000"
   },
   "tokenColors": [
     {

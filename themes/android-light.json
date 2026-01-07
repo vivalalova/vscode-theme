@@ -1,6 +1,15 @@
 {
   "name": "Lova Android Light",
   "type": "light",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable": "#1a1a1a",
+    "variable.readonly": "#1a1a1a",
+    "variable.local": "#1a1a1a",
+    "variable.declaration": "#1a1a1a",
+    "property": "#1a1a1a",
+    "parameter": "#7D5260"
+  },
   "colors": {
     "focusBorder": "#3DDC84",
     "foreground": "#1C1B1F",
