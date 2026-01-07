@@ -26,39 +26,74 @@
         "path": "./themes/cursor-light.json"
       },
       {
-        "label": "Lova Ocean Depths",
+        "label": "Lova Cursor Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/ocean-depths.json"
+        "path": "./themes/cursor-dark.json"
       },
       {
-        "label": "Lova Tech Innovation",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tech-innovation.json"
-      },
-      {
-        "label": "Lova Midnight Galaxy",
-        "uiTheme": "vs-dark",
-        "path": "./themes/midnight-galaxy.json"
-      },
-      {
-        "label": "Lova Arctic Frost",
+        "label": "Lova Ocean Depths Light",
         "uiTheme": "vs",
-        "path": "./themes/arctic-frost.json"
+        "path": "./themes/ocean-depths-light.json"
       },
       {
-        "label": "Lova Forest Canopy",
+        "label": "Lova Ocean Depths Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/forest-canopy.json"
+        "path": "./themes/ocean-depths-dark.json"
       },
       {
-        "label": "Lova Sunset Boulevard",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sunset-boulevard.json"
-      },
-      {
-        "label": "Lova Claude",
+        "label": "Lova Tech Innovation Light",
         "uiTheme": "vs",
-        "path": "./themes/claude.json"
+        "path": "./themes/tech-innovation-light.json"
+      },
+      {
+        "label": "Lova Tech Innovation Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tech-innovation-dark.json"
+      },
+      {
+        "label": "Lova Midnight Galaxy Light",
+        "uiTheme": "vs",
+        "path": "./themes/midnight-galaxy-light.json"
+      },
+      {
+        "label": "Lova Midnight Galaxy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-galaxy-dark.json"
+      },
+      {
+        "label": "Lova Arctic Frost Light",
+        "uiTheme": "vs",
+        "path": "./themes/arctic-frost-light.json"
+      },
+      {
+        "label": "Lova Arctic Frost Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arctic-frost-dark.json"
+      },
+      {
+        "label": "Lova Forest Canopy Light",
+        "uiTheme": "vs",
+        "path": "./themes/forest-canopy-light.json"
+      },
+      {
+        "label": "Lova Forest Canopy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-canopy-dark.json"
+      },
+      {
+        "label": "Lova Sunset Boulevard Light",
+        "uiTheme": "vs",
+        "path": "./themes/sunset-boulevard-light.json"
+      },
+      {
+        "label": "Lova Sunset Boulevard Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sunset-boulevard-dark.json"
+      },
+      {
+        "label": "Lova Claude Light",
+        "uiTheme": "vs",
+        "path": "./themes/claude-light.json"
       },
       {
         "label": "Lova Claude Dark",
@@ -66,9 +101,9 @@
         "path": "./themes/claude-dark.json"
       },
       {
-        "label": "Lova Teams",
+        "label": "Lova Teams Light",
         "uiTheme": "vs",
-        "path": "./themes/teams.json"
+        "path": "./themes/teams-light.json"
       },
       {
         "label": "Lova Teams Dark",
@@ -81,9 +116,19 @@
         "path": "./themes/macos-light.json"
       },
       {
+        "label": "Lova macOS Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/macos-dark.json"
+      },
+      {
         "label": "Lova iOS Light",
         "uiTheme": "vs",
         "path": "./themes/ios-light.json"
+      },
+      {
+        "label": "Lova iOS Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ios-dark.json"
       },
       {
         "label": "Lova Android Light",
@@ -91,14 +136,29 @@
         "path": "./themes/android-light.json"
       },
       {
+        "label": "Lova Android Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/android-dark.json"
+      },
+      {
         "label": "Lova Nintendo Light",
         "uiTheme": "vs",
         "path": "./themes/nintendo-light.json"
       },
       {
+        "label": "Lova Nintendo Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nintendo-dark.json"
+      },
+      {
         "label": "Lova Sony Light",
         "uiTheme": "vs",
         "path": "./themes/sony-light.json"
+      },
+      {
+        "label": "Lova Sony Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sony-dark.json"
       },
       {
         "label": "Lova shadcn Light",
