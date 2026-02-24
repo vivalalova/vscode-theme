@@ -199,6 +199,16 @@
         "label": "Lova Fork Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/fork-dark.json"
+      },
+      {
+        "label": "Lova LINE Light",
+        "uiTheme": "vs",
+        "path": "./themes/line-light.json"
+      },
+      {
+        "label": "Lova LINE Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/line-dark.json"
       }
     ]
   }
