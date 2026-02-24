@@ -50,6 +50,11 @@
     "quickInputTitle.background": "#2f2f2f",
     "pickerGroup.border": "#454545",
     "pickerGroup.foreground": "#4EC9B0",
+    "list.activeSelectionBackground": "#4EC9B040",
+    "list.activeSelectionForeground": "#ffffff",
+    "list.inactiveSelectionBackground": "#4EC9B025",
+    "list.inactiveSelectionForeground": "#cccccc",
+    "list.hoverBackground": "#4EC9B015",
     "editorUnnecessaryCode.opacity": "#00000077",
     "editorUnnecessaryCode.border": "#00000000"
   },

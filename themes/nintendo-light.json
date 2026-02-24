@@ -90,6 +90,7 @@
     "inputValidation.infoBorder": "#0073CF",
     "list.activeSelectionBackground": "#E6001218",
     "list.activeSelectionForeground": "#0D0C0C",
+    "list.inactiveSelectionForeground": "#1a1a1a",
     "list.dropBackground": "#E6001215",
     "list.errorForeground": "#E60012",
     "list.focusBackground": "#E6001215",

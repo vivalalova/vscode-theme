@@ -72,6 +72,7 @@
     "list.activeSelectionForeground": "#1a1a1a",
     "list.focusForeground": "#1a1a1a",
     "list.hoverBackground": "#e8e8e8",
+    "list.inactiveSelectionBackground": "#1a9e8425",
     "list.inactiveSelectionForeground": "#1a1a1a",
     "sideBar.foreground": "#1a1a1a",
     "gitDecoration.modifiedResourceForeground": "#c08000",

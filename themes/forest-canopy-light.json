@@ -85,6 +85,7 @@
     "list.activeSelectionForeground": "#2a3a28",
     "list.hoverBackground": "#eaede4",
     "list.inactiveSelectionBackground": "#e0e4d8",
+    "list.inactiveSelectionForeground": "#1a1a1a",
     "scrollbarSlider.background": "#5a6d5030",
     "scrollbarSlider.hoverBackground": "#5a6d5050",
     "scrollbarSlider.activeBackground": "#5a6d5070",

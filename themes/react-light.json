@@ -56,6 +56,7 @@
     "list.activeSelectionForeground": "#23272F",
     "list.hoverBackground": "#F6F7F9",
     "list.inactiveSelectionBackground": "#F6F7F9",
+    "list.inactiveSelectionForeground": "#1a1a1a",
     "list.highlightForeground": "#087EA4",
     "panel.background": "#F6F7F9",
     "panel.border": "#E5E7EB",
