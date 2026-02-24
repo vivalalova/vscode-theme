@@ -4,56 +4,58 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 專案概述
 
-VS Code 色彩主題擴展，包含 38 個主題（19 深色 + 19 淺色）。
+VS Code 色彩主題擴展，包含 40 個主題（20 深色 + 20 淺色）。
 
 ## 本地安裝
 
 ```bash
-./ln.sh
+npm run install:ext
 ```
 
 ## 主題列表
 
-| 主題 | 類型 | 檔案 |
-|------|------|------|
-| Lova Monokai Green Light | 淺色 | `themes/monokai-green-light.json` |
-| Lova Monokai Green Dark | 深色 | `themes/monokai-green-dark.json` |
-| Lova Cursor Light | 淺色 | `themes/cursor-light.json` |
-| Lova Cursor Dark | 深色 | `themes/cursor-dark.json` |
-| Lova Ocean Depths Light | 淺色 | `themes/ocean-depths-light.json` |
-| Lova Ocean Depths Dark | 深色 | `themes/ocean-depths-dark.json` |
-| Lova Tech Innovation Light | 淺色 | `themes/tech-innovation-light.json` |
-| Lova Tech Innovation Dark | 深色 | `themes/tech-innovation-dark.json` |
-| Lova Midnight Galaxy Light | 淺色 | `themes/midnight-galaxy-light.json` |
-| Lova Midnight Galaxy Dark | 深色 | `themes/midnight-galaxy-dark.json` |
-| Lova Arctic Frost Light | 淺色 | `themes/arctic-frost-light.json` |
-| Lova Arctic Frost Dark | 深色 | `themes/arctic-frost-dark.json` |
-| Lova Forest Canopy Light | 淺色 | `themes/forest-canopy-light.json` |
-| Lova Forest Canopy Dark | 深色 | `themes/forest-canopy-dark.json` |
+| 主題                        | 類型 | 檔案                                 |
+| --------------------------- | ---- | ------------------------------------ |
+| Lova Monokai Green Light    | 淺色 | `themes/monokai-green-light.json`    |
+| Lova Monokai Green Dark     | 深色 | `themes/monokai-green-dark.json`     |
+| Lova Cursor Light           | 淺色 | `themes/cursor-light.json`           |
+| Lova Cursor Dark            | 深色 | `themes/cursor-dark.json`            |
+| Lova Ocean Depths Light     | 淺色 | `themes/ocean-depths-light.json`     |
+| Lova Ocean Depths Dark      | 深色 | `themes/ocean-depths-dark.json`      |
+| Lova Tech Innovation Light  | 淺色 | `themes/tech-innovation-light.json`  |
+| Lova Tech Innovation Dark   | 深色 | `themes/tech-innovation-dark.json`   |
+| Lova Midnight Galaxy Light  | 淺色 | `themes/midnight-galaxy-light.json`  |
+| Lova Midnight Galaxy Dark   | 深色 | `themes/midnight-galaxy-dark.json`   |
+| Lova Arctic Frost Light     | 淺色 | `themes/arctic-frost-light.json`     |
+| Lova Arctic Frost Dark      | 深色 | `themes/arctic-frost-dark.json`      |
+| Lova Forest Canopy Light    | 淺色 | `themes/forest-canopy-light.json`    |
+| Lova Forest Canopy Dark     | 深色 | `themes/forest-canopy-dark.json`     |
 | Lova Sunset Boulevard Light | 淺色 | `themes/sunset-boulevard-light.json` |
-| Lova Sunset Boulevard Dark | 深色 | `themes/sunset-boulevard-dark.json` |
-| Lova Claude Light | 淺色 | `themes/claude-light.json` |
-| Lova Claude Dark | 深色 | `themes/claude-dark.json` |
-| Lova Teams Light | 淺色 | `themes/teams-light.json` |
-| Lova Teams Dark | 深色 | `themes/teams-dark.json` |
-| Lova macOS Light | 淺色 | `themes/macos-light.json` |
-| Lova macOS Dark | 深色 | `themes/macos-dark.json` |
-| Lova iOS Light | 淺色 | `themes/ios-light.json` |
-| Lova iOS Dark | 深色 | `themes/ios-dark.json` |
-| Lova Android Light | 淺色 | `themes/android-light.json` |
-| Lova Android Dark | 深色 | `themes/android-dark.json` |
-| Lova Nintendo Light | 淺色 | `themes/nintendo-light.json` |
-| Lova Nintendo Dark | 深色 | `themes/nintendo-dark.json` |
-| Lova Sony Light | 淺色 | `themes/sony-light.json` |
-| Lova Sony Dark | 深色 | `themes/sony-dark.json` |
-| Lova shadcn Light | 淺色 | `themes/shadcn-light.json` |
-| Lova shadcn Dark | 深色 | `themes/shadcn-dark.json` |
-| Lova Mermaid Light | 淺色 | `themes/mermaid-light.json` |
-| Lova Mermaid Dark | 深色 | `themes/mermaid-dark.json` |
-| Lova React Light | 淺色 | `themes/react-light.json` |
-| Lova React Dark | 深色 | `themes/react-dark.json` |
-| Lova Fork Light | 淺色 | `themes/fork-light.json` |
-| Lova Fork Dark | 深色 | `themes/fork-dark.json` |
+| Lova Sunset Boulevard Dark  | 深色 | `themes/sunset-boulevard-dark.json`  |
+| Lova Claude Light           | 淺色 | `themes/claude-light.json`           |
+| Lova Claude Dark            | 深色 | `themes/claude-dark.json`            |
+| Lova Teams Light            | 淺色 | `themes/teams-light.json`            |
+| Lova Teams Dark             | 深色 | `themes/teams-dark.json`             |
+| Lova macOS Light            | 淺色 | `themes/macos-light.json`            |
+| Lova macOS Dark             | 深色 | `themes/macos-dark.json`             |
+| Lova iOS Light              | 淺色 | `themes/ios-light.json`              |
+| Lova iOS Dark               | 深色 | `themes/ios-dark.json`               |
+| Lova Android Light          | 淺色 | `themes/android-light.json`          |
+| Lova Android Dark           | 深色 | `themes/android-dark.json`           |
+| Lova Nintendo Light         | 淺色 | `themes/nintendo-light.json`         |
+| Lova Nintendo Dark          | 深色 | `themes/nintendo-dark.json`          |
+| Lova Sony Light             | 淺色 | `themes/sony-light.json`             |
+| Lova Sony Dark              | 深色 | `themes/sony-dark.json`              |
+| Lova shadcn Light           | 淺色 | `themes/shadcn-light.json`           |
+| Lova shadcn Dark            | 深色 | `themes/shadcn-dark.json`            |
+| Lova Mermaid Light          | 淺色 | `themes/mermaid-light.json`          |
+| Lova Mermaid Dark           | 深色 | `themes/mermaid-dark.json`           |
+| Lova React Light            | 淺色 | `themes/react-light.json`            |
+| Lova React Dark             | 深色 | `themes/react-dark.json`             |
+| Lova Fork Light             | 淺色 | `themes/fork-light.json`             |
+| Lova Fork Dark              | 深色 | `themes/fork-dark.json`              |
+| Lova LINE Light             | 淺色 | `themes/line-light.json`             |
+| Lova LINE Dark              | 深色 | `themes/line-dark.json`              |
 
 ## 檔案結構
 
