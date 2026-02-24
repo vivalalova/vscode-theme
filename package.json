@@ -8,6 +8,9 @@
     "vscode": "^1.70.0"
   },
   "categories": ["Themes"],
+  "scripts": {
+    "install:ext": "npx @vscode/vsce package --no-dependencies --allow-missing-repository && code --install-extension lova-themes-$(node -p \"require('./package.json').version\").vsix"
+  },
   "contributes": {
     "themes": [
       {
