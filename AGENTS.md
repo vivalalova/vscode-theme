@@ -1,0 +1,76 @@
+# AGENTS.md
+
+This file provides guidance to Codex (Codex.ai/code) when working with code in this repository.
+
+## 專案概述
+
+VS Code 色彩主題擴展，包含 42 個主題（21 深色 + 21 淺色）。
+
+## 本地安裝
+
+```bash
+npm run install:ext
+```
+
+## 主題列表
+
+| 主題                        | 類型 | 檔案                                 |
+| --------------------------- | ---- | ------------------------------------ |
+| Lova Monokai Green Light    | 淺色 | `themes/monokai-green-light.json`    |
+| Lova Monokai Green Dark     | 深色 | `themes/monokai-green-dark.json`     |
+| Lova Cursor Light           | 淺色 | `themes/cursor-light.json`           |
+| Lova Cursor Dark            | 深色 | `themes/cursor-dark.json`            |
+| Lova Ocean Depths Light     | 淺色 | `themes/ocean-depths-light.json`     |
+| Lova Ocean Depths Dark      | 深色 | `themes/ocean-depths-dark.json`      |
+| Lova Tech Innovation Light  | 淺色 | `themes/tech-innovation-light.json`  |
+| Lova Tech Innovation Dark   | 深色 | `themes/tech-innovation-dark.json`   |
+| Lova Midnight Galaxy Light  | 淺色 | `themes/midnight-galaxy-light.json`  |
+| Lova Midnight Galaxy Dark   | 深色 | `themes/midnight-galaxy-dark.json`   |
+| Lova Arctic Frost Light     | 淺色 | `themes/arctic-frost-light.json`     |
+| Lova Arctic Frost Dark      | 深色 | `themes/arctic-frost-dark.json`      |
+| Lova Forest Canopy Light    | 淺色 | `themes/forest-canopy-light.json`    |
+| Lova Forest Canopy Dark     | 深色 | `themes/forest-canopy-dark.json`     |
+| Lova Sunset Boulevard Light | 淺色 | `themes/sunset-boulevard-light.json` |
+| Lova Sunset Boulevard Dark  | 深色 | `themes/sunset-boulevard-dark.json`  |
+| Lova Codex Light           | 淺色 | `themes/Codex-light.json`           |
+| Lova Codex Dark            | 深色 | `themes/Codex-dark.json`            |
+| Lova Teams Light            | 淺色 | `themes/teams-light.json`            |
+| Lova Teams Dark             | 深色 | `themes/teams-dark.json`             |
+| Lova macOS Light            | 淺色 | `themes/macos-light.json`            |
+| Lova macOS Dark             | 深色 | `themes/macos-dark.json`             |
+| Lova iOS Light              | 淺色 | `themes/ios-light.json`              |
+| Lova iOS Dark               | 深色 | `themes/ios-dark.json`               |
+| Lova Android Light          | 淺色 | `themes/android-light.json`          |
+| Lova Android Dark           | 深色 | `themes/android-dark.json`           |
+| Lova Nintendo Light         | 淺色 | `themes/nintendo-light.json`         |
+| Lova Nintendo Dark          | 深色 | `themes/nintendo-dark.json`          |
+| Lova Sony Light             | 淺色 | `themes/sony-light.json`             |
+| Lova Sony Dark              | 深色 | `themes/sony-dark.json`              |
+| Lova shadcn Light           | 淺色 | `themes/shadcn-light.json`           |
+| Lova shadcn Dark            | 深色 | `themes/shadcn-dark.json`            |
+| Lova Mermaid Light          | 淺色 | `themes/mermaid-light.json`          |
+| Lova Mermaid Dark           | 深色 | `themes/mermaid-dark.json`           |
+| Lova React Light            | 淺色 | `themes/react-light.json`            |
+| Lova React Dark             | 深色 | `themes/react-dark.json`             |
+| Lova Fork Light             | 淺色 | `themes/fork-light.json`             |
+| Lova Fork Dark              | 深色 | `themes/fork-dark.json`              |
+| Lova LINE Light             | 淺色 | `themes/line-light.json`             |
+| Lova LINE Dark              | 深色 | `themes/line-dark.json`              |
+| Lova Terminal Light         | 淺色 | `themes/terminal-light.json`         |
+| Lova Terminal Dark          | 深色 | `themes/terminal-dark.json`          |
+
+## 檔案結構
+
+- `themes/*.json` - 主題定義（UI 色彩 + 語法高亮）
+- `examples/` - 各語言範例檔案，用於預覽主題效果
+- `package.json` - 擴展 manifest
+
+## 開發流程
+
+1. 編輯 `themes/*.json` 中的任一主題
+2. VS Code 中 `Cmd+Shift+P` → `Developer: Reload Window` 查看變更
+3. 使用 `examples/` 中的檔案測試各語言語法高亮
+
+## 規範
+
+- 有改動時視情況更新 AGENTS.md 和 README.md

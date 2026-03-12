@@ -212,6 +212,16 @@
         "label": "Lova LINE Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/line-dark.json"
+      },
+      {
+        "label": "Lova Terminal Light",
+        "uiTheme": "vs",
+        "path": "./themes/terminal-light.json"
+      },
+      {
+        "label": "Lova Terminal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/terminal-dark.json"
       }
     ]
   }
