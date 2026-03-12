@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 專案概述
 
-VS Code 色彩主題擴展，包含 16 個主題（8 深色 + 8 淺色）。
+VS Code 色彩主題擴展，包含 18 個主題（9 深色 + 9 淺色）。
 
 ## 本地安裝
 
@@ -32,6 +32,8 @@ npm run install:ext
 | Lova Sunset Boulevard Dark  | 深色 | `themes/sunset-boulevard-dark.json`  |
 | Lova Terminal Light         | 淺色 | `themes/terminal-light.json`         |
 | Lova Terminal Dark          | 深色 | `themes/terminal-dark.json`          |
+| Lova Crimson Ember Light    | 淺色 | `themes/crimson-ember-light.json`    |
+| Lova Crimson Ember Dark     | 深色 | `themes/crimson-ember-dark.json`     |
 
 ## 檔案結構
 

@@ -92,6 +92,16 @@
         "label": "Lova Terminal Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/terminal-dark.json"
+      },
+      {
+        "label": "Lova Crimson Ember Light",
+        "uiTheme": "vs",
+        "path": "./themes/crimson-ember-light.json"
+      },
+      {
+        "label": "Lova Crimson Ember Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crimson-ember-dark.json"
       }
     ]
   }

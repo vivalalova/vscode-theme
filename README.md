@@ -1,6 +1,6 @@
 # Lova Themes
 
-個人 VS Code 色彩主題擴展，包含 16 個主題（8 深色 + 8 淺色）。
+個人 VS Code 色彩主題擴展，包含 18 個主題（9 深色 + 9 淺色）。
 
 ## 主題列表
 
@@ -14,6 +14,7 @@
 | Forest Canopy    |  ✅   |  ✅  | 森林綠意                  |
 | Sunset Boulevard |  ✅   |  ✅  | 日落暖調                  |
 | Terminal         |  ✅   |  ✅  | 終端機風格                |
+| Crimson Ember    |  ✅   |  ✅  | 酒紅餘燼色調              |
 
 ## 安裝
 
