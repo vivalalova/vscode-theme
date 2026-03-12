@@ -14,92 +14,92 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monokai Green Light",
+        "label": "Lova Monokai Green Light",
         "uiTheme": "vs",
         "path": "./themes/monokai-green-light.json"
       },
       {
-        "label": "Monokai Green Dark",
+        "label": "Lova Monokai Green Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-green-dark.json"
       },
       {
-        "label": "Ocean Depths Light",
+        "label": "Lova Ocean Depths Light",
         "uiTheme": "vs",
         "path": "./themes/ocean-depths-light.json"
       },
       {
-        "label": "Ocean Depths Dark",
+        "label": "Lova Ocean Depths Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/ocean-depths-dark.json"
       },
       {
-        "label": "Tech Innovation Light",
+        "label": "Lova Tech Innovation Light",
         "uiTheme": "vs",
         "path": "./themes/tech-innovation-light.json"
       },
       {
-        "label": "Tech Innovation Dark",
+        "label": "Lova Tech Innovation Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/tech-innovation-dark.json"
       },
       {
-        "label": "Midnight Galaxy Light",
+        "label": "Lova Midnight Galaxy Light",
         "uiTheme": "vs",
         "path": "./themes/midnight-galaxy-light.json"
       },
       {
-        "label": "Midnight Galaxy Dark",
+        "label": "Lova Midnight Galaxy Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/midnight-galaxy-dark.json"
       },
       {
-        "label": "Arctic Frost Light",
+        "label": "Lova Arctic Frost Light",
         "uiTheme": "vs",
         "path": "./themes/arctic-frost-light.json"
       },
       {
-        "label": "Arctic Frost Dark",
+        "label": "Lova Arctic Frost Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/arctic-frost-dark.json"
       },
       {
-        "label": "Forest Canopy Light",
+        "label": "Lova Forest Canopy Light",
         "uiTheme": "vs",
         "path": "./themes/forest-canopy-light.json"
       },
       {
-        "label": "Forest Canopy Dark",
+        "label": "Lova Forest Canopy Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/forest-canopy-dark.json"
       },
       {
-        "label": "Sunset Boulevard Light",
+        "label": "Lova Sunset Boulevard Light",
         "uiTheme": "vs",
         "path": "./themes/sunset-boulevard-light.json"
       },
       {
-        "label": "Sunset Boulevard Dark",
+        "label": "Lova Sunset Boulevard Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/sunset-boulevard-dark.json"
       },
       {
-        "label": "Terminal Light",
+        "label": "Lova Terminal Light",
         "uiTheme": "vs",
         "path": "./themes/terminal-light.json"
       },
       {
-        "label": "Terminal Dark",
+        "label": "Lova Terminal Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/terminal-dark.json"
       },
       {
-        "label": "Crimson Ember Light",
+        "label": "Lova Crimson Ember Light",
         "uiTheme": "vs",
         "path": "./themes/crimson-ember-light.json"
       },
       {
-        "label": "Crimson Ember Dark",
+        "label": "Lova Crimson Ember Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/crimson-ember-dark.json"
       }
