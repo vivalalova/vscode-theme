@@ -6,6 +6,8 @@ This file provides guidance to Codex (Codex.ai/code) when working with code in t
 
 VS Code 色彩主題擴展，包含 18 個主題（9 深色 + 9 淺色）。
 
+每組主題都以名稱作為視覺出發點，刻意保留不同的 chrome 分層、語法重點與 terminal 性格。
+
 ## 本地安裝
 
 ```bash
