@@ -16,24 +16,24 @@ npm run install:ext
 
 | 主題                        | 類型 | 檔案                                 |
 | --------------------------- | ---- | ------------------------------------ |
-| Lova Monokai Green Light    | 淺色 | `themes/monokai-green-light.json`    |
-| Lova Monokai Green Dark     | 深色 | `themes/monokai-green-dark.json`     |
-| Lova Ocean Depths Light     | 淺色 | `themes/ocean-depths-light.json`     |
-| Lova Ocean Depths Dark      | 深色 | `themes/ocean-depths-dark.json`      |
-| Lova Tech Innovation Light  | 淺色 | `themes/tech-innovation-light.json`  |
-| Lova Tech Innovation Dark   | 深色 | `themes/tech-innovation-dark.json`   |
-| Lova Midnight Galaxy Light  | 淺色 | `themes/midnight-galaxy-light.json`  |
-| Lova Midnight Galaxy Dark   | 深色 | `themes/midnight-galaxy-dark.json`   |
-| Lova Arctic Frost Light     | 淺色 | `themes/arctic-frost-light.json`     |
-| Lova Arctic Frost Dark      | 深色 | `themes/arctic-frost-dark.json`      |
-| Lova Forest Canopy Light    | 淺色 | `themes/forest-canopy-light.json`    |
-| Lova Forest Canopy Dark     | 深色 | `themes/forest-canopy-dark.json`     |
-| Lova Sunset Boulevard Light | 淺色 | `themes/sunset-boulevard-light.json` |
-| Lova Sunset Boulevard Dark  | 深色 | `themes/sunset-boulevard-dark.json`  |
-| Lova Terminal Light         | 淺色 | `themes/terminal-light.json`         |
-| Lova Terminal Dark          | 深色 | `themes/terminal-dark.json`          |
-| Lova Crimson Ember Light    | 淺色 | `themes/crimson-ember-light.json`    |
-| Lova Crimson Ember Dark     | 深色 | `themes/crimson-ember-dark.json`     |
+| Monokai Green Light         | 淺色 | `themes/monokai-green-light.json`    |
+| Monokai Green Dark          | 深色 | `themes/monokai-green-dark.json`     |
+| Ocean Depths Light          | 淺色 | `themes/ocean-depths-light.json`     |
+| Ocean Depths Dark           | 深色 | `themes/ocean-depths-dark.json`      |
+| Tech Innovation Light       | 淺色 | `themes/tech-innovation-light.json`  |
+| Tech Innovation Dark        | 深色 | `themes/tech-innovation-dark.json`   |
+| Midnight Galaxy Light       | 淺色 | `themes/midnight-galaxy-light.json`  |
+| Midnight Galaxy Dark        | 深色 | `themes/midnight-galaxy-dark.json`   |
+| Arctic Frost Light          | 淺色 | `themes/arctic-frost-light.json`     |
+| Arctic Frost Dark           | 深色 | `themes/arctic-frost-dark.json`      |
+| Forest Canopy Light         | 淺色 | `themes/forest-canopy-light.json`    |
+| Forest Canopy Dark          | 深色 | `themes/forest-canopy-dark.json`     |
+| Sunset Boulevard Light      | 淺色 | `themes/sunset-boulevard-light.json` |
+| Sunset Boulevard Dark       | 深色 | `themes/sunset-boulevard-dark.json`  |
+| Terminal Light              | 淺色 | `themes/terminal-light.json`         |
+| Terminal Dark               | 深色 | `themes/terminal-dark.json`          |
+| Crimson Ember Light         | 淺色 | `themes/crimson-ember-light.json`    |
+| Crimson Ember Dark          | 深色 | `themes/crimson-ember-dark.json`     |
 
 ## 檔案結構
 
