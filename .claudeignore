@@ -1,0 +1,8 @@
+# Build artifacts
+*.vsix
+
+# Cache
+.mypy_cache/
+
+# Logs
+.logs/
