@@ -1,0 +1,33 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1F232C"/>
+      <stop offset="1" stop-color="#12141B"/>
+    </linearGradient>
+    <linearGradient id="spectrum" x1="24" y1="0" x2="104" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0.00" stop-color="#82A05C"/>
+      <stop offset="0.125" stop-color="#8FD65A"/>
+      <stop offset="0.25" stop-color="#4FD6DA"/>
+      <stop offset="0.375" stop-color="#46C2D1"/>
+      <stop offset="0.50" stop-color="#78BCCC"/>
+      <stop offset="0.625" stop-color="#37C8FF"/>
+      <stop offset="0.75" stop-color="#8C7CFF"/>
+      <stop offset="0.875" stop-color="#D8758A"/>
+      <stop offset="1.00" stop-color="#F29A5B"/>
+    </linearGradient>
+    <linearGradient id="ell" x1="40" y1="24" x2="84" y2="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E2E6EE"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base -->
+  <rect x="0" y="0" width="128" height="128" rx="28" fill="url(#bg)"/>
+  <rect x="0.75" y="0.75" width="126.5" height="126.5" rx="27.25" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1.5"/>
+
+  <!-- L monogram -->
+  <path d="M40 24 h16 v40 h28 v16 h-44 z" fill="url(#ell)"/>
+
+  <!-- spectrum band -->
+  <rect x="24" y="96" width="80" height="12" rx="6" fill="url(#spectrum)"/>
+</svg>
